@@ -1,6 +1,6 @@
 # Concordance
 
-This program is a part of an job interview assessment. To run the program, navigate to the "jar" directory via command line and use below command:
+This program is a part of an interview assessment. To run the program, navigate to the "jar" directory via command line and use below command:
 
 java -jar concordance.jar
 
