@@ -8,7 +8,7 @@ public class FileReader {
 
     public String read() {
         StringBuilder sb = new StringBuilder();
-        File file = new File("file-contents.txt");
+        File file = new File("input.txt");
         Scanner scanner = null;
         try {
             scanner = new Scanner(file);
