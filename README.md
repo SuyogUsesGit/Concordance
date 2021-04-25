@@ -1,6 +1,6 @@
 # Concordance
 
-This program is a part of an interview assessment. To run the program, navigate to the "jar" directory via command line and use below command:
+This program is written for an interview assessment. The output is saved as "output.txt" in the "jar" directory. To run the program, navigate to the "jar" directory via command line and use below command:
 
 java -jar concordance.jar
 
